@@ -10,6 +10,15 @@ The table below shows the metrics formulated from the PyBer data sources.
 
 ![PyBer_Metrics.png](https://github.com/dschul01/PyBer_Analysis/blob/main/analysis/PyBer_Metrics.png)
 
+The PyBer metrics indicate multiple disparities across city types:
+
+* Urban cities have the highest demand for rides; 260% more than suburban cities, 1,300% more than rural cities
+* Urban cities have most drivers of all city types; 491% more than suburban cities, 3,083% more than rural cities
+	- Urban driver count exceeds total rides by 68%
+	- Suburban and rural driver counts are below total rides
+* Urban cities have the highest revenue, yet lowest average fares per ride and driver
+* Rural cities have the lowest revenue, yet highest average fares per ride and driver
+
 
 ## Summary
 I recommend the following actions take place in order to address the disparities among the city types
