@@ -6,7 +6,9 @@ The purpose of this project is to utilize Python, Pandas, Matplotlib and Jupyter
 The data utilized for the analysis can be accessed through the following links: ![city_data.csv](https://github.com/dschul01/PyBer_Analysis/blob/main/Resources/city_data.csv) and ![ride_data.csv](https://github.com/dschul01/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
 ## Results
-The analysis below shows
+The table below shows the metrics formulated from the PyBer data sources. 
+
+![PyBer_Metrics.png](https://github.com/dschul01/PyBer_Analysis/blob/main/analysis/PyBer_Metrics.png)
 
 
 ## Summary
